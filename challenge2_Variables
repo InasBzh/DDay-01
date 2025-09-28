@@ -1,0 +1,10 @@
+#include <stdio.h>
+int main (){
+	float Celcius;
+	float Kelvin;
+	    printf ("Entre tempeture in Celcius: " );
+	     scanf ("%f", &Celcius);
+       printf ("The tempature in Kelvin is: %.2f" , Kelvin=Celcius+273.15);
+	    
+	      return 0;
+}
